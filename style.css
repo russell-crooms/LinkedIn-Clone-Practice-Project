@@ -668,7 +668,27 @@ a {
     margin-right: 5px;
 }
 
+.profile-btn {
+    margin: 20px 0;
+}
 
+.profile-btn a {
+    display: inline-flex;
+    align-items: center;
+    background: #e4e6eb;
+    padding: 6px 15px; 
+    border-radius: 4px;
+    margin-right: 10px; 
+}
 
+.profile-btn a img {
+    width: 18px;
+    margin-right: 5px;
+}
+
+.profile-btn .primary-btn {
+    background: #045be6;
+    color: #fff;
+}
 
 /* left off at 1:32:08 https://www.youtube.com/watch?v=0ihPVIrf_Dw */
