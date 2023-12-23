@@ -894,6 +894,23 @@ a {
     .post-activity-link img {
         margin-right: 0px;
     }
+
+    .profile-main, .profile-sidebar {
+        flex-basis: 100%;
+    }
+    
+    .profile-container {
+        font-size: 14px;
+    }
+
+    .profile-pic {
+        width: 100px;
+        margin-top: -50px;
+    }
+
+    .profile-description {
+        font-size: 14px;
+    }
 }
 
 /* left off at 1:32:08 https://www.youtube.com/watch?v=0ihPVIrf_Dw */
