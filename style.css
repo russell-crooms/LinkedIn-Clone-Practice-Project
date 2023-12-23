@@ -617,7 +617,7 @@ a {
     flex-basis: 25%;
     align-self: flex-start;
     position: sticky;
-    top: 73%;
+    top: 73px;
 }
 
 .profile-container {
@@ -779,5 +779,13 @@ a {
     font-size: 12px;
     font-weight: 500;
 }
+
+
+/* ------------------ profile right-sidebar ----------------- */
+
+.profile-sidebar .sidebar-ad {
+    margin: 0;
+}
+
 
 /* left off at 1:32:08 https://www.youtube.com/watch?v=0ihPVIrf_Dw */
