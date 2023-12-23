@@ -761,7 +761,15 @@ a {
 }
 
 
-.skills-btn
+.skills-btn {
+    display: inline-block;
+    margin: 10px 5px; 
+    padding: 6px 18px;
+    border: 1px solid #777;
+    border-radius: 30px;
+    font-size: 12px;
+    font-weight: 500;
+}
 
 
 /* left off at 1:32:08 https://www.youtube.com/watch?v=0ihPVIrf_Dw */
