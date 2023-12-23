@@ -771,5 +771,13 @@ a {
     font-weight: 500;
 }
 
+.language-btn {
+    display: inline-block;
+    margin: 10px 5px;
+    padding: 6px 18px;
+    background: #e4e6eb;
+    font-size: 12px;
+    font-weight: 500;
+}
 
 /* left off at 1:32:08 https://www.youtube.com/watch?v=0ihPVIrf_Dw */
